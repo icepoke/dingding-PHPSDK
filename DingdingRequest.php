@@ -1,5 +1,5 @@
 <?php
-namespace Dingding;
+
 class DingdingRequest {
     /**
      * the request parameters
