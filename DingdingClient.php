@@ -1,5 +1,5 @@
 <?php
-namespace Dingding;
+
 class DingdingClient {
     /**
      * the login mode constants
